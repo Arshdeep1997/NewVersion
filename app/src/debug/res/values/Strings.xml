@@ -2,4 +2,6 @@
 <resources>
     <string name="Calendar">My App - Free Version</string>
     <string name="app_description">This is the free version.</string>
+    <string name="version_tag">Debug version</string>
+
 </resources>

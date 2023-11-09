@@ -58,7 +58,7 @@
         android:layout_marginStart="145dp"
         android:layout_marginEnd="160dp"
         android:layout_marginBottom="363dp"
-        android:text="Skip for free trial"
+        android:text="@string/version_tag"
         android:textColor="@color/white" />
 
     <ImageView
